@@ -34,6 +34,7 @@
     "bootstrap": "^5.3.5",
     "bs-stepper": "^1.7.0",
     "choices.js": "^11.0.6",
+    "firebase": "^12.4.0",
     "flatpickr": "^4.6.13",
     "glightbox": "^3.3.1",
     "jarallax": "^2.2.0",
